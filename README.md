@@ -10,7 +10,7 @@ I'm a passionate Machine Learning Engineer from Japan! Here are some things abou
 ## 🛠️ My Skills
 I have expertise in the following:
 
-- Programming Languages: Python, Java, SQL 🎓
+- Programming Languages: Python, SQL 🎓
 - Python Libraries:  pandas, NumPy, Matplotlib, Scikit-learn, BeautifulSoup, etc. 🐍
 - Web Frameworks: Django and Flask, with Python 💻 
 - Machine Learning Framework : TensorFlow, Keras, PyTorch💻 
